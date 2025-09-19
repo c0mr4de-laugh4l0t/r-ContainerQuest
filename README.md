@@ -19,7 +19,7 @@ This project was built for the **Reddit Hackathon**.
 
 ###  Clone the repo
 ```bash
-git clone https://github.com/yourusername/containerquest.git
+git clone https://github.com/c0mr4de-laugh4l0t/r-ContainerQuest.git
 cd containerquest
 ```
 ## Run the game
